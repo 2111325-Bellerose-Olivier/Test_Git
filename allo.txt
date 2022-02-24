@@ -1,3 +1,4 @@
 Allo toi
+<<<<<<< HEAD
 haha
-dsffdfhggdgdfgfhgjhh
+hihi
