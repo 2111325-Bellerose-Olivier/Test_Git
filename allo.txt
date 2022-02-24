@@ -1,3 +1,7 @@
 Allo toi
+<<<<<<< HEAD
 haha
 hihi
+=======
+haha
+>>>>>>> master
